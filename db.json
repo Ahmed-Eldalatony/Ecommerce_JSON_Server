@@ -610,7 +610,7 @@
             "featured":true
         }
     ],
-    "total": 100,
-    "skip": 0,
-    "limit": 30
+    "total":{"total":0},
+    "skip":{"skip":0},
+    "limit": {"limit":0}
 }
